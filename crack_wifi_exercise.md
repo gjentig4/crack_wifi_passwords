@@ -7,8 +7,7 @@ The objective of this exercise is to provide you with practical experience in cr
 ## Pre-requisites
 
 - External WiFi card that supports monitor mode
-- A computer running a Linux distribution (preferably Kali Linux)
-- Basic understanding of command line interfaces and networking concepts
+- Linux machine
 
 ## Exercise Overview
 
