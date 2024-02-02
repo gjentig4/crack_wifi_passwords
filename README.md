@@ -44,4 +44,3 @@ This document provides an overview of the commands and steps involved in the lab
 ## Conclusion
 
 This summary outlines the process for assessing WiFi security through password cracking as part of an educational exercise. Students are reminded to apply these techniques within ethical boundaries and authorized environments only.
-
