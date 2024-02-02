@@ -14,6 +14,14 @@ The objective of this exercise is to provide you with practical experience in cr
 
 You will perform a series of tasks designed to simulate an attack on a wireless network. This includes putting your WiFi card into monitor mode, capturing WiFi traffic, conducting a deauthentication attack, and attempting to crack the network password using a wordlist attack.
 
+## Installing Necessary Tools
+Your Linux distribution, especially if it's Kali Linux, should come with the necessary tools pre-installed. If not, you can install them using your package manager. For Debian-based systems the command is:
+
+```
+sudo apt-get install aircrack-ng
+```
+This will install `aircrack-ng` suite, which includes `airmon-ng`, `airodump-ng`, `aireplay-ng`, and `aircrack-ng`.
+
 ### Step 1: Identifying Your Wireless Interface
 
 - **List Wireless Interfaces:**  
