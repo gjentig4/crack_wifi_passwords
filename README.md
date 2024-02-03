@@ -1,4 +1,4 @@
-# WiFi Cracking Lab Instructions
+# WiFi Cracking 
 
 ## Prerequisites
 - WiFi card supporting monitor mode
